@@ -13,3 +13,7 @@ img {
   .ingredients li {
     list-style: square;
   }
+
+  .time {
+    color: gray;
+  }
